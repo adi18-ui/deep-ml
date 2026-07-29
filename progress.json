@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-09-21T11:08:19.436Z",
+  "items": {
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-07-29T09:51:41.919Z",
+      "last_pushed_at": "2026-07-29T09:51:41.919Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:356": {
+      "kind": "problem",
+      "id": "356",
+      "title": "Label Encoding for Ordinal Variables",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/356",
+      "path": "problems/0356-label-encoding-for-ordinal-variables",
+      "first_solved_at": "2026-07-29T15:13:39.566Z",
+      "last_pushed_at": "2026-07-29T15:13:39.566Z",
+      "language": "python",
+      "lines": 27
+    }
+  }
+}

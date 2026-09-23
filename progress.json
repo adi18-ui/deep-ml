@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:19:15.468Z",
+  "generated_at": "2026-09-23T10:38:26.480Z",
   "items": {
     "problem:112": {
       "kind": "problem",
@@ -76,6 +76,19 @@
       "path": "problems/0034-one-hot-encoding-of-nominal-values",
       "first_solved_at": "2026-09-23T10:19:15.507Z",
       "last_pushed_at": "2026-09-23T10:19:15.507Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-09-23T10:38:26.505Z",
+      "last_pushed_at": "2026-09-23T10:38:26.505Z",
       "language": "python",
       "lines": 17
     }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 15 problems · 0 labs · 0 math
+**16** solved · 16 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-21 | [solution](problems/0016-feature-scaling-implementation) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-09-23 | [solution](problems/0046-implement-precision-metric) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-09-23 | [solution](problems/0042-implement-relu-activation-function) |
+| [Implement the SELU Activation Function](https://www.deep-ml.com/problems/103) | easy | 2026-09-29 | [solution](problems/0103-implement-the-selu-activation-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-09-29 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-07-29 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-09-24 | [solution](problems/0044-leaky-relu-activation-function) |

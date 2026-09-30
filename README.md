@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 21 problems · 0 labs · 0 math
+**22** solved · 22 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,6 +33,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-09-30 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-09-23 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-23 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-09-30 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 
 ---
 

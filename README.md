@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**25** solved · 25 problems · 0 labs · 0 math
+**26** solved · 26 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-09-30 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-09-30 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2026-09-30 | [solution](problems/0152-implementing-rouge-score) |
+| [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-10-01 | [solution](problems/0143-instance-normalization-in-implementation) |
 
 ---
 

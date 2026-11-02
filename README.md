@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 32 problems · 1 labs · 0 math
+**34** solved · 33 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-09-23 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-09-29 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-09-24 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
+| [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-11-02 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-09-29 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-21 | [solution](problems/0016-feature-scaling-implementation) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-09-29 | [solution](problems/0114-implement-global-average-pooling) |
